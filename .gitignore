@@ -1,0 +1,5 @@
+## API KEY
+.streamlit/secrets.toml
+
+##venv
+/venv
